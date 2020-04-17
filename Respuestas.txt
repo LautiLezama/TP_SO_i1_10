@@ -1,0 +1,12 @@
+¿ALFA ve los datos que cargaron los demás en su repositorio?
+SI
+
+¿Si ALFA agrega un archivo los demás integrantes lo ven?
+SI
+
+¿Si BETA agrega un archivo los demás integrantes lo ven?
+SI
+
+¿cual es la mejor forma de comunicarse entre ustedes dentro de github, y de qué forma lo
+hicieron ustedes?
+Dentro de Github usamos issue.
